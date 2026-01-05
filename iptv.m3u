@@ -2,21 +2,21 @@
 
 #EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800", MBC
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/2560px-KBS_2_logo.svg.png", KBS 2TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/2560px-KBS_2_logo.svg.png", KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njc3MDMzNDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=G1922eNM4tHglGPwSxA3egW~RYOZyV5dO7fmterqCeAevoqVuHLhtCm4ZXHItgNOKLsCjAxXZhJYEFcl2IdpfeBcPD0sp6kl9xp~JH39VREEkBNrHjyX8IghvLGxrjeJuJfGVWNgFHq2j1X5i0OwlkrB3rBW2DmyvyAr72xGjW9Y2N1K~uDez6daXKjseiJ1sBVOEu~-kgh4k8MTQtpObGOGNxx~bBgGIUe-Svv0ZCeAtJSQZbcIwzg5pm9PzBNcbuP14WkSdlIdpVEjbiqDaZEvS2irCaXxO574hTz~lHUjg9OAyQsZindNNg01jrvCHjYSr77u6feMoXlodS9bgQ__
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/KBS_1_logo.svg.png/revision/latest?cb=20200921081500&path-prefix=ko", KBS 1TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/KBS_1_logo.svg.png/revision/latest?cb=20200921081500&path-prefix=ko", KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njc3MDMzMDJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bT-FepyX14fttKa-tcnFHdmBmm2iNbTEH0SjsQibc1bt1T1txAK2ibkOL2AHpha~q3ETE-6ClvKz86KgOMOU9rOQCibgjz9ng3NYbhe-APUCwMl8lS7FaAZRn4CniUDZ-cFkJQbfmO6Uqbw6MFfTpc7CkczY4EPOPbV~p2l0tB3pK3Nnw8gzsLfFacmlgTmKgLNwBa8sx~IrvMJgSGfAI2i8cOkJcczj8KhgmnWwXLLCmfR7CY3b9hay2AoS49S-NAxC6Zhvs9k94zrQjS1t0-2sSjzw9fsTHzW~KFDX6AdAijAHl7qrhHC950uB1954T4QCuE7N3jqY~D9Xh~T9ag__
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62EwaCG.png", TV Chosun
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62EwaCG.png", TV 조선
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ev5JoBJ.png", TV Chosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61cGwYO.png", KFN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61cGwYO.png", KFN
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png", KTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png", KTV 국민방송
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pOSroOE.png", NBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pOSroOE.png", NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOnWS6V.png", TBS TV   
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
