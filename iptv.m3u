@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png", EBS1
-https://liveotu.ebs.co.kr/ebs1/onair.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vbGl2ZW90dS5lYnMuY28ua3IvZWJzMS9vbmFpci5zbWlsLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjgzNDQwNjV9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=0tFfUOruNtkrTTuJJwM-KcAgbHGBw88SRtUo2~mQZ29DcqGqqOBkGs0YazMnTcziihel6h0vX6302EcXCV470mBmM0jofXZyeF7FCj0IBmZs-f0tXUC57WWinZjmtMZYIBe4KBMhS7kV1tqU8JB1lLWqC3o3yoQm6cPaY9BEIcM_&Key-Pair-Id=pub_liveotu.ebs.co.kr
+https://liveotu.ebs.co.kr/ebs1/onair.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vbGl2ZW90dS5lYnMuY28ua3IvZWJzMS9vbmFpci5zbWlsLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njg0NjU1NjZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=nhdYNG4xHvAHKAl0qaIsDajL1-q5~4wsQRTeexQpbQ7dTQ1p6EifbmFJzh-kTbm8hx~8ChgPG~8HOfkOMJdTYkGtoCa-Hre~WQRZJIimb5fc~TFWl27xhEQoFeUMYvgZzPIhVcsQB~0BZ0o4Abs3sFQBHNb7WsVEJ5PsRS1hujg_&Key-Pair-Id=pub_liveotu.ebs.co.kr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png", EBS2
-https://liveotu.ebs.co.kr/ebs2/onair.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vbGl2ZW90dS5lYnMuY28ua3IvZWJzMi9vbmFpci5zbWlsLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjgzNDQwNjd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=NEM0FWlbL0YQ3bInZE96dttBKYrbnI6Bf590jVmWMkp-y4VH3npq8yhYt3kkgR1CdCNPbRAlybjaKat~5iM3LDwpgmkN~aaiT~GydHxvRi7~FBza3BzcF67axO529wpy9M5gKW93VOb2CsKU~KIJivi75hM0rRHW3vaBlzNcX-Y_&Key-Pair-Id=pub_liveotu.ebs.co.kr
+https://liveotu.ebs.co.kr/ebs2/onair.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vbGl2ZW90dS5lYnMuY28ua3IvZWJzMi9vbmFpci5zbWlsLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njg0NjU1NTZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=nLbLb57nV1oLc0-IWtzYoYIAKfwPwqoV3t89O5lLHFYN7MCBgfdOpVzkI3Bxq0qPuxAvzDnF~JOqTJKvzcFlfcHPEyzVJtshGoHLLsN02btcuGbatkKj0Mia0xf16m7GxzLQuY4AT8FKbkF~fbG1pFZuKKgdT8Vns8hk-c89FKo_&Key-Pair-Id=pub_liveotu.ebs.co.kr
 #EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800", MBC
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/KBS_1_logo.svg.png/revision/latest?cb=20200921081500&path-prefix=ko", KBS1
@@ -24,6 +24,7 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOnWS6V.png", TBS TV   
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
 
 
 
